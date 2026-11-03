@@ -8,20 +8,20 @@ By the end of the session, you’ll have a practical mental model of how AI agen
 
 ## Resources
 
-Build Agents with Microsoft 365 Copilot Agent Builder
+Build Agents with Microsoft 365 Copilot Agent Builder  
 [https://learn.microsoft.com/microsoft-365/copilot/extensibility/agent-builder-build-agents](https://learn.microsoft.com/microsoft-365/copilot/extensibility/agent-builder-build-agents)
 
-Get Started with Agents in SharePoint
+Get Started with Agents in SharePoint  
 [https://support.microsoft.com/sharepoint/copilot-in-sharepoint/get-started-with-agents-in-sharepoint](https://support.microsoft.com/sharepoint/copilot-in-sharepoint/get-started-with-agents-in-sharepoint)
 
-Write Effective Agent Instructions
+Write Effective Agent Instructions  
 [https://learn.microsoft.com/microsoft-365/copilot/extensibility/declarative-agent-instructions](https://learn.microsoft.com/microsoft-365/copilot/extensibility/declarative-agent-instructions)
 
-Add Knowledge Sources to an Agent
+Add Knowledge Sources to an Agent  
 [https://learn.microsoft.com/microsoft-365/copilot/extensibility/agent-builder-add-knowledge](https://learn.microsoft.com/microsoft-365/copilot/extensibility/agent-builder-add-knowledge)
 
-Model Context Protocol (MCP)
+Model Context Protocol (MCP)  
 [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/)
 
-Add Custom Skills to an Agent in Microsoft 365 Copilot Agent Builder
+Add Custom Skills to an Agent in Microsoft 365 Copilot Agent Builder  
 [https://learn.microsoft.com/microsoft-365/copilot/extensibility/agent-builder-add-skills](https://learn.microsoft.com/microsoft-365/copilot/extensibility/agent-builder-add-skills)
